@@ -1,0 +1,24 @@
+{
+  "name": "m-10-node-js-core-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "append-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foysalthecode/Node-js-core-concept.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/foysalthecode/Node-js-core-concept/issues"
+  },
+  "homepage": "https://github.com/foysalthecode/Node-js-core-concept#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
